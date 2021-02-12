@@ -27,6 +27,16 @@
 					<DistClean command="/usr/bin/make -j16 -f &quot;/home/bulat/Рабочий\ стол/4\ сем/practice/1007/cpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/home/bulat/Рабочий стол/4 сем/practice/1007/cpp/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j16 -f &quot;/home/bulat/Рабочий\ стол/4\ сем/practice/1007/cpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j16 -f &quot;/home/bulat/Рабочий\ стол/4\ сем/practice/1007/cpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j16 -f &quot;/home/bulat/Рабочий\ стол/4\ сем/practice/1007/cpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j16 -f &quot;/home/bulat/Рабочий\ стол/4\ сем/practice/1007/cpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
 			<Target title="cpp">
 				<Option output="/home/bulat/Рабочий стол/4 сем/practice/1007/cpp/cmake-build-debug/cpp" prefix_auto="0" extension_auto="0"/>
 				<Option working_dir="/home/bulat/Рабочий стол/4 сем/practice/1007/cpp/cmake-build-debug"/>
@@ -66,16 +76,6 @@
 				</Compiler>
 				<MakeCommands>
 					<Build command="/usr/bin/make -j16 -f &quot;/home/bulat/Рабочий\ стол/4\ сем/practice/1007/cpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 cpp/fast"/>
-					<CompileFile command="/usr/bin/make -j16 -f &quot;/home/bulat/Рабочий\ стол/4\ сем/practice/1007/cpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j16 -f &quot;/home/bulat/Рабочий\ стол/4\ сем/practice/1007/cpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j16 -f &quot;/home/bulat/Рабочий\ стол/4\ сем/practice/1007/cpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-				</MakeCommands>
-			</Target>
-			<Target title="edit_cache">
-				<Option working_dir="/home/bulat/Рабочий стол/4 сем/practice/1007/cpp/cmake-build-debug"/>
-				<Option type="4"/>
-				<MakeCommands>
-					<Build command="/usr/bin/make -j16 -f &quot;/home/bulat/Рабочий\ стол/4\ сем/practice/1007/cpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
 					<CompileFile command="/usr/bin/make -j16 -f &quot;/home/bulat/Рабочий\ стол/4\ сем/practice/1007/cpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
 					<Clean command="/usr/bin/make -j16 -f &quot;/home/bulat/Рабочий\ стол/4\ сем/practice/1007/cpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 					<DistClean command="/usr/bin/make -j16 -f &quot;/home/bulat/Рабочий\ стол/4\ сем/practice/1007/cpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
