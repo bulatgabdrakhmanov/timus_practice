@@ -1,0 +1,3 @@
+/home/bulat/Рабочий стол/4 сем/practice/2138/cpp/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/bulat/Рабочий стол/4 сем/practice/2138/cpp/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/bulat/Рабочий стол/4 сем/practice/2138/cpp/cmake-build-debug/CMakeFiles/cpp.dir
